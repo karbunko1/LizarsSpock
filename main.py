@@ -55,6 +55,9 @@ def usuarioElijeNumero():
     opcion -= 1
 
     return opcion
+    print("opcion")
+
+
 
 
 def imprimirOpciones(pc, usuario):
